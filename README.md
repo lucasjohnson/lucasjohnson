@@ -10,6 +10,3 @@ Technology Stack
 - Digital Ocean, Netlify, AWS
 - Sketch, Zeplin, Photoshop, Illustrator
 - Agile Scrum, Jira
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/lucasjohnson/github-readme-stats)
