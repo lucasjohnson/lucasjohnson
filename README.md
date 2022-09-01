@@ -1,4 +1,4 @@
-# Lucas Johnson, Senior Frontend Developer
+# Lucas Johnson, Frontend Developer
 
 I am Front-end Web Developer with six years of professional experience. I have worked in multiple agency environments, building large corporate websites; either as templates built on top of an existing CMS, or as fully deployed React JS/Redux/TypeScript web applications that are WCAG AA compliant and thoroughly tested. I am a team player who is at home in Agile environments, has a keen eye for detail, strong communication skills, and who is able to adjust to the needs of any project.
 
