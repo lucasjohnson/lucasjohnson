@@ -4,10 +4,10 @@ Frontend Engineer with 9+ years of experience building production web applicatio
 
 ## Technical Skills
 
-Languages:	JavaScript/TypeScript
-Frameworks:	React, Next.js
-Data Layer:	GraphQL, Prisma, REST APIs
-Testing & QA:	Vitest, Playwright, Storybook, Cypress, Jest
-Accessibility:	WCAG 2.0 AA compliance, ARIA
-AI:	Claude Code
+- Languages:	JavaScript/TypeScript
+- Frameworks:	React, Next.js
+- Data Layer:	GraphQL, Prisma, REST APIs
+- Testing & QA:	Vitest, Playwright, Storybook, Cypress, Jest
+- Accessibility:	WCAG 2.0 AA compliance, ARIA
+- AI:	Claude Code
 
