@@ -1,12 +1,13 @@
-# Lucas Johnson, Frontend Developer
+# Lucas Johnson, Frontend Engineer
 
-I am a Front-end Web Developer with six years of professional experience. I have worked in multiple agency environments, building large corporate websites; either as templates built on top of an existing CMS, or as fully deployed React JS/Redux/TypeScript web applications that are WCAG AA compliant and thoroughly tested. I am a team player who is at home in Agile environments, has a keen eye for detail, strong communication skills, and who is able to adjust to the needs of any project.
+Frontend Engineer with 9+ years of experience building production web applications with React, TypeScript, and Next.js. Proven track record of delivering accessible, performant UIs for enterprise clients including Hewlett-Packard, and Universal Pictures. Experienced in building and maintaining shared design systems, driving WCAG AA compliance, and collaborating closely with design and product teams in agile environments.
 
-Technology Stack
-- JavaScript ES6, TypeScript, HTML5, CSS3, Sass/Less, jQuery, Bootstrap
-- React JS, Redux, Webpack, NPM, Gulp, graphQL, Git (GitHub, GitLab, Bitbucket)
-- WCAG AA, QA and UAT testing
-- Headless CMS’ Prismic, and Netlify CMS, as well as, Adobe Experience Manger and WordPress
-- Digital Ocean, Netlify, AWS
-- Sketch, Zeplin, Photoshop, Illustrator
-- Agile Scrum, Jira
+## Technical Skills
+
+Languages:	JavaScript/TypeScript
+Frameworks:	React, Next.js
+Data Layer:	GraphQL, Prisma, REST APIs
+Testing & QA:	Vitest, Playwright, Storybook, Cypress, Jest
+Accessibility:	WCAG 2.0 AA compliance, ARIA
+AI:	Claude Code
+
